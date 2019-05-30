@@ -1,0 +1,5 @@
+C:\Skole\H2\Database-programmering-og-OOP\Ikon Sport\IKS_CL\bin\Debug\IKS_CL.dll
+C:\Skole\H2\Database-programmering-og-OOP\Ikon Sport\IKS_CL\bin\Debug\IKS_CL.pdb
+C:\Skole\H2\Database-programmering-og-OOP\Ikon Sport\IKS_CL\obj\Debug\IKS_CL.csproj.CoreCompileInputs.cache
+C:\Skole\H2\Database-programmering-og-OOP\Ikon Sport\IKS_CL\obj\Debug\IKS_CL.dll
+C:\Skole\H2\Database-programmering-og-OOP\Ikon Sport\IKS_CL\obj\Debug\IKS_CL.pdb
